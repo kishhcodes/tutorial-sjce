@@ -12,3 +12,5 @@ if prime_number(num):
     print(f"{num} is a prime number.")
 else:
     print(f"{num} is not a prime number.")
+
+#This code lies in Dev. Soon to be merged with main.
