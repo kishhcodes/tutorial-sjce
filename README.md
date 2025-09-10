@@ -1,0 +1,1 @@
+#A Simple Python code to check if the number provided is a Prime number or not. 
